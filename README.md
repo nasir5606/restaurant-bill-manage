@@ -1,1 +1,1 @@
-# restaurant-bill-manage
+This is restaurant Billing management system.
