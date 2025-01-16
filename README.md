@@ -1,1 +1,1 @@
-This is restaurant Billing management system.
+This is a restaurant Billing management system.
